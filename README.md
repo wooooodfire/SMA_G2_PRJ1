@@ -1,4 +1,7 @@
-# SMA_G2_PRJ1
+# SMA_G2_PRJ1 - 對 PTT 星宇航空相關文章進行情緒分析
+
+## caution
+git push 前，請先清除所有 Jupyter Notebook 的輸出（output）。
 
 ## 初始環境設置
 ```requirements.txt``` 檔案中列出了大部分本堂課會使用到的套件以及建議安裝的版本，在第一次建置 Python 執行環境時，同學們可以透過以下方法安裝套件。   
